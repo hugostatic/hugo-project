@@ -1,5 +1,4 @@
 $(document).ready(function(){
-    
         //Mobile menu toggle
     if ($('.navbar-burger').length) {
         $('.navbar-burger').on("click", function(){
