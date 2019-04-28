@@ -1,4 +1,4 @@
-baseURL = "http://hugostatic.github.io/"
+baseURL = "https://snt.netlify.com/"
 llanguageCode = "en-us"
 title = "hugostatic"
 theme = "hugo-fresh"
