@@ -1,8 +1,9 @@
 ---
-title: Math Sample
-subtitle: Using KaTeX
-date: 2017-03-05
-tags: ["example", "math"]
+title: "maths"
+subtitle: "Using KaTeX"
+date: 2019-05-01T10:11:29+02:00
+sidebar: true # Display the sidebar (see more below)
+sidebarlogo: fresh-white-alt # Display the sidebar logo 
 ---
 
 KaTeX can be used to generate complex math formulas server-side. 

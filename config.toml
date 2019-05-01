@@ -1,5 +1,5 @@
 baseURL = "https://snt.netlify.com/"
-llanguageCode = "en-us"
+llanguageCode = "fr"
 title = "hugostatic"
 theme = "hugo-fresh"
 
@@ -17,11 +17,11 @@ theme = "hugo-fresh"
   ]
 
   [params.hero]
-  title = "Manage. Deploy."
-  subtitle = "Lorem ipsum sit dolor amet is dummy text used by the typography industry"
+  title = "Sciences numériques et technologie"
+  subtitle = "Site dédié à l'enseignement de la SNT en classe de Seconde."
   buttontext = "Get started"
   buttonlink = "#"
-  image = "illustrations/worker.svg"
+  image = "illustrations/undraw.svg"
   clientlogos = [
     "systek",
     "tribe",
@@ -242,15 +242,15 @@ theme = "hugo-fresh"
     icon = "bitbucket"
 
   [[params.navbar]]
-  title = "Features"
+  title = "Maths"
+  url = "/maths/"
+
+  [[params.navbar]]
+  title = "Python"
   url = "/"
 
   [[params.navbar]]
-  title = "Pricing"
-  url = "/"
-
-  [[params.navbar]]
-  title = "Dropdown"
+  title = "SNT"
 
     [[params.navbar.sublinks]]
     title = "Dropdown item"
@@ -265,12 +265,9 @@ theme = "hugo-fresh"
     url = "/"
 
   [[params.navbar]]
-  title = "Log in"
-  url = "/"
+  title = "A propos"
+  url = "/about/"
 
-  [[params.navbar]]
-  title = "Sign up"
-  url = "/"
-  button = true
+  
 
   
